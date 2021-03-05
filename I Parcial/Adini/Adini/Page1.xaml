@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Adini.Page1">
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="Black"
+                 VerticalOptions="Center"
+                 HorizontalOptions="Center">
+
+            <Label Text="ADIVINADOR" HorizontalTextAlignment="Center" TextColor="Aqua" FontSize="36" FontAttributes="Bold"/>
+          
+            <Entry Placeholder="Anote su resultado" x:Name="Resultado"
+                   Keyboard="Numeric"/>
+            
+            <Entry Placeholder="Numero que pensaste" x:Name="npensaste"
+                   IsEnabled="False"/>
+
+            <Button Text="Adivinar numero" Clicked="Button_Clicked"/>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

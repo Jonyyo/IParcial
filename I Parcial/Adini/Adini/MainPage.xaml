@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Adini.MainPage">
+
+    <StackLayout BackgroundColor="Black"
+                 VerticalOptions="Center"
+                 HorizontalOptions="Center">
+        <Label Text="ADIVINADOR" HorizontalTextAlignment="Center" TextColor="Aqua" FontSize="36" FontAttributes="Bold"/>
+        <Button Text="Adivinar Numero que estas pensando"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" 
+                    Clicked="Button_Clicked"/>
+
+        <Button Text="Adivinar la fecha de tu cumpleaños"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" 
+                Clicked="Button_Clicked_1"/>
+
+    </StackLayout>
+
+</ContentPage>

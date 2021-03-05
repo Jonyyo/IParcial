@@ -1,0 +1,16 @@
+C:\Users\7010\source\repos\Adini\Adini\bin\Debug\netstandard2.0\Adini.deps.json
+C:\Users\7010\source\repos\Adini\Adini\bin\Debug\netstandard2.0\Adini.dll
+C:\Users\7010\source\repos\Adini\Adini\bin\Debug\netstandard2.0\ref\Adini.dll
+C:\Users\7010\source\repos\Adini\Adini\bin\Debug\netstandard2.0\Adini.pdb
+C:\Users\7010\source\repos\Adini\Adini\obj\Debug\netstandard2.0\Adini.csprojAssemblyReference.cache
+C:\Users\7010\source\repos\Adini\Adini\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\7010\source\repos\Adini\Adini\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\7010\source\repos\Adini\Adini\obj\Debug\netstandard2.0\Adini.AssemblyInfoInputs.cache
+C:\Users\7010\source\repos\Adini\Adini\obj\Debug\netstandard2.0\Adini.AssemblyInfo.cs
+C:\Users\7010\source\repos\Adini\Adini\obj\Debug\netstandard2.0\Adini.csproj.CoreCompileInputs.cache
+C:\Users\7010\source\repos\Adini\Adini\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\7010\source\repos\Adini\Adini\obj\Debug\netstandard2.0\Adini.dll
+C:\Users\7010\source\repos\Adini\Adini\obj\Debug\netstandard2.0\ref\Adini.dll
+C:\Users\7010\source\repos\Adini\Adini\obj\Debug\netstandard2.0\Adini.pdb
+C:\Users\7010\source\repos\Adini\Adini\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+C:\Users\7010\source\repos\Adini\Adini\obj\Debug\netstandard2.0\Page2.xaml.g.cs
